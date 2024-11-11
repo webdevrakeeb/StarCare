@@ -1,0 +1,1133 @@
+/*==================================
+Xtra Large Screen - Others
+====================================*/
+@media screen and (min-width: 1400px) and (max-width: 1599px) {
+    .testimonial-wrpper::after {
+        left: 90%;
+    }
+    .testimonial-wrpper::before {
+        right: 88%;
+        top: 89%;
+    }
+    .successful-area {
+        padding-top: 87px;
+        padding-bottom: 71px;
+    }
+    .faq-wrpper {
+        padding: 100px 0;
+    }
+    #time-line-one {
+        top: 13%;
+        left: 19%;
+    }
+    #time-line-two {
+        top: 17%;
+    }
+    #time-line-three {
+        top: 13%;
+        left: 54.8%;
+    }
+    #time-line-four {
+        top: 12%;
+        left: 73%;
+    }
+}
+
+/*==================================
+Large Screen - Others
+====================================*/
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+    .header-contact a {
+        width: 100%;
+    }
+    .header-area {
+        padding-bottom: 92px;
+    }
+    .hero-area-title h2 {
+        font-size: 50px;
+    }
+    .hero-area-title h2::after {
+        bottom: 37px;
+        left: -33px;
+    }
+    .hero-content-right::after {
+        left: 69%;
+        top: 78%;
+    }
+    .footer-top-wrpper {
+        padding-bottom: 35px;
+    }
+    .testimonial-wrpper::after {
+        left: 90%;
+    }
+    .testimonial-wrpper::before {
+        right: 89%;
+    }
+    .successful-area {
+        padding-top: 87px;
+        padding-bottom: 71px;
+    }
+    .faq-wrpper {
+        padding: 100px 0;
+    }
+    .childhood-content h3 {
+        font-size: 26px;
+    }
+    .childhood-content h2 {
+        font-size: 53px;
+    }
+    .childhood-content h2 {
+        font-size: 53px;
+        line-height: 100%;
+        margin-top: 10.7px;
+        margin-bottom: 5px;
+    }
+    .childhood-content p {
+        margin-bottom: 10px;
+    }
+    .time-line-area {
+        padding-bottom: 80px;
+    }
+    #time-line-one {
+        top: 10%;
+        left: 19%;
+    }
+    .tl-one-desc {
+        margin-left: -17px;
+    }
+    #time-line-two {
+        top: 15%;
+    }
+    #time-line-three {
+        top: 11%;
+        left: 54.8%;
+    }
+    #time-line-four {
+        top: 14%;
+        left: 73%;
+    }
+    .tl-four-desc {
+        margin-top: 4px;
+    }
+    .yellow-border {
+        top: -6%;
+    }
+    .about-content-box h2 {
+        font-size: 45px;
+        margin-bottom: 10px;
+    }
+}
+
+/*==================================
+Medium Screen - Others
+====================================*/
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .header-contact a {
+        margin-left: auto;
+    }
+    .small-device-logo a img {
+        width: 170px;
+        height: 54px;
+        object-fit: contain;
+    }
+    .header-navbar {
+        padding: 10px 30px;
+    }
+    .hero-area-title h2::after {
+        bottom: 50px;
+    }
+    .hero-icon-wrpper::after {
+        z-index: 999000;
+    }
+    .hero-content-right {
+        margin-top: 50px;
+        position: relative;
+        z-index: 9999;
+    }
+    .hero-content-right::after {
+        left: 83%;
+        top: 76%;
+    }
+    .starcare-advantage-area {
+        padding-top: 90px;
+    }
+    .footer-top-wrpper {
+        padding-bottom: 35px;
+    }
+    .quick-links ul li a,
+    .contacts ul li a {
+        font-size: 15px;
+    }
+    .testimonial-wrpper::before {
+        right: 83%;
+    }
+    .testimonial-wrpper::after {
+        left: 85%;
+    }
+    .testimonial-content-wrpper h2 {
+        font-size: 40px;
+        line-height: 100%;
+    }
+    .testimonial-content-wrpper p {
+        margin: 5px 0;
+    }
+    .testimonial-content-wrpper p {
+        font-size: 17px;
+    }
+    .successful-area {
+        padding-top: 87px;
+        padding-bottom: 71px;
+    }
+    .faq-wrpper {
+        padding: 80px 0;
+    }
+    .faq-area::after {
+        width: 79.53px;
+        top: 7%;
+    }
+    .faq-area::before {
+        width: 83px;
+    }
+    .childhood-content h3 {
+        font-size: 20px;
+    }
+    .childhood-content h2 {
+        font-size: 36px;
+        line-height: 110%;
+        margin-bottom: 10px;
+    }
+    .childhood-content p {
+        margin-bottom: 15px;
+    }
+    .childhood-education-area {
+        padding-top: 87px;
+        padding-bottom: 110px;
+    }
+    .time-line-area {
+        padding-bottom: 60px;
+    }
+    .time-line-out,
+    .tl-two-out,
+    .tl-three-out,
+    .tl-four-out {
+        width: 100px;
+        height: 100px;
+    }
+    .tl-one-inner,
+    .tl-two-inner,
+    .lt-three-inner,
+    .lt-four-inner {
+        width: 90px;
+        height: 90px;
+    }
+    .tl-one-inner p,
+    .tl-two-inner p,
+    .lt-three-inner p,
+    .lt-four-inner p {
+        font-size: 24.109px;
+    }
+    #time-line-one {
+        top: 12%;
+        left: 17%;
+    }
+    #time-line-two {
+        top: 13%;
+        left: 37%;
+    }
+    #time-line-three {
+        top: 8%;
+        left: 53.8%;
+    }
+    #time-line-four {
+        top: 10%;
+        left: 73%;
+    }
+    .tl-one-desc {
+        margin-left: -30px;
+    }
+    .tl-two-desc {
+        margin-left: -40px;
+    }
+    .tl-three-desc {
+        margin-top: 2px;
+        margin-left: -33px;
+    }
+    .tl-four-desc p {
+        width: 160px;
+    }
+    .tl-four-desc {
+        margin-top: 5px;
+        margin-left: -30px;
+    }
+    .header-area {
+        background-position: right;
+    }
+    .yellow-border {
+        top: 0%;
+    }
+    .about-content-box {
+        padding-left: 0;
+    }
+    .about-content-box h3 {
+        font-size: 40px;
+    }
+    .about-content-box h2 {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+}
+
+/*==================================
+Small Screen - Tablate
+====================================*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .header-contact a {
+        margin-left: auto;
+    }
+    .header-navbar {
+        padding: 10px 30px;
+    }
+    .small-device-logo a img {
+        width: 170px;
+        height: 54px;
+        object-fit: contain;
+    }
+    .hero-area-title h2::after {
+        bottom: 23%;
+    }
+    .hero-icon-wrpper::after {
+        z-index: 999000;
+    }
+    .hero-content-right {
+        margin-top: 50px;
+        position: relative;
+        z-index: 9999;
+    }
+    .starcare-advantage-area {
+        padding-top: 60px;
+        padding-bottom: 80.59px;
+    }
+    .starcare-title h2 {
+        font-size: 45px;
+    }
+    .starcare-title h2::before {
+        left: 12.407px;
+        bottom: -5px;
+    }
+    .starcare-title h2::after {
+        width: 287.378px;
+        height: 29.506px;
+        right: 68px;
+        bottom: -8px;
+    }
+    .starcare-single-category {
+        width: 100%;
+        margin: auto;
+    }
+    .footer-top-wrpper {
+        padding-bottom: 35px;
+    }
+    .quick-links,
+    .contacts {
+        margin-top: 20px;
+    }
+    .testimonial-area {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .testimonial-content-wrpper h2 {
+        font-size: 30px;
+        line-height: 100%;
+    }
+    .testimonial-content-wrpper p {
+        margin: 0px 0;
+        font-size: 15px;
+    }
+    .testimonial-content-wrpper h4 {
+        font-size: 17.947px;
+        line-height: 100%;
+        margin-bottom: 0;
+    }
+    .testimonial-content-wrpper img {
+        margin-top: 0;
+    }
+    .testimonial-wrpper::before,
+    .testimonial-wrpper::after {
+        display: none;
+    }
+    .successful-area {
+        padding-top: 87px;
+        padding-bottom: 71px;
+    }
+    .successful-wrpper h2 {
+        font-size: 37px;
+    }
+    .faq-wrpper {
+        padding: 60px 0;
+    }
+    .faq-area::after {
+        width: 79.53px;
+        top: 7%;
+        z-index: -1;
+    }
+    .faq-area::before {
+        width: 83px;
+        z-index: -1;
+    }
+    .faqs-title h2 {
+        font-size: 44px;
+        margin-bottom: 30px;
+    }
+    .accordion {
+        width: 90%;
+        margin: auto;
+    }
+    .accordion-header p {
+        max-width: 90%;
+    }
+    .faqs-title h2::after {
+        width: 244px;
+        right: 36px;
+        bottom: -22px;
+    }
+    .childhood-education-area {
+        background-position: left center;
+        padding-top: 0px;
+        padding-bottom: 50px;
+    }
+    .childhood-img-wrpper img {
+        width: 60%;
+        display: block;
+        margin: auto;
+    }
+    .childhood-content h3 {
+        font-size: 26px;
+    }
+    .childhood-content h2 {
+        font-size: 46px;
+        line-height: 110%;
+        margin-top: 9.7px;
+        margin-bottom: 10px;
+    }
+    .childhood-content {
+        margin-top: 40px;
+    }
+    .time-line-out,
+    .tl-two-out,
+    .tl-three-out,
+    .tl-four-out {
+        width: 90px;
+        height: 90px;
+    }
+    .tl-one-inner,
+    .tl-two-inner,
+    .lt-three-inner,
+    .lt-four-inner {
+        width: 80px;
+        height: 80px;
+    }
+    .tl-one-inner p,
+    .tl-two-inner p,
+    .lt-three-inner p,
+    .lt-four-inner p {
+        font-size: 23.109px;
+    }
+    #time-line-one {
+        top: 0%;
+        left: 18%;
+    }
+    .tl-one-desc p,
+    .tl-two-desc p,
+    .tl-three-desc p,
+    .tl-four-desc p {
+        font-size: 15px;
+        width: 127px;
+    }
+    .tl-one-desc {
+        margin-top: 4px;
+        margin-left: -16px;
+    }
+    #time-line-two {
+        top: 2%;
+        left: 36%;
+    }
+    #time-line-three {
+        top: 0%;
+        left: 52.8%;
+    }
+    #time-line-four {
+        top: 4%;
+        left: 72%;
+    }
+    .tl-four-desc {
+        margin-top: 5px;
+        margin-left: -20px;
+    }
+    .time-line-area {
+        padding-bottom: 40px;
+    }
+    .header-area {
+        background-position: right;
+    }
+    .yellow-border {
+        display: none;
+    }
+    .about-img-wrpper img {
+        width: 60%;
+        display: block;
+        margin: auto;
+    }
+    .about-content-box {
+        padding-left: 0;
+    }
+    .about-content-box h3 {
+        font-size: 34px;
+    }
+    .about-content-box h2 {
+        font-size: 50px;
+        margin-bottom: 13px;
+    }
+
+    .starcare-category-post .row .col-lg-4:nth-child(2),
+    .starcare-category-post .row .col-lg-4:nth-child(4),
+    .starcare-category-post .row .col-lg-4:nth-child(6),
+    .starcare-category-post .row .col-lg-4:nth-child(8),
+    .starcare-category-post .row .col-lg-4:nth-child(10) {
+        border-right: none;
+    }
+
+    .starcare-category-post .row .col-lg-4:nth-child(3),
+    .starcare-category-post .row .col-lg-4:nth-child(9) {
+        border-right: 2px solid #BD9D45;
+    }
+
+    .starcare-category-post .row .col-lg-4:nth-child(10) {
+        border-bottom: 2px solid #BD9D45;
+    }
+
+
+
+}
+
+/*==================================
+Small Screen - Mobile
+====================================*/
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .header-contact a {
+        width: 100%;
+    }
+    .small-device-logo a img {
+        width: 170px;
+        height: 54px;
+        object-fit: contain;
+    }
+    .hero-content-right::after {
+        left: 69%;
+        top: 83%;
+    }
+    .header-navbar {
+        padding: 10px 25px;
+    }
+    .small-device-logo a img {
+        width: 70%;
+    }
+    .hero-area-title h2 {
+        font-size: 44px;
+        margin-top: 15px;
+    }
+    .hero-area-title h2::after {
+        bottom: 18%;
+        left: -32px;
+    }
+    .hero-content-right {
+        margin-top: 40px;
+    }
+    .hero-icon-wrpper::before {
+        right: -64px;
+        top: -50px;
+    }
+    .hero-icon-wrpper::after {
+        right: -25px;
+    }
+    .hero-content-right-top h3 {
+        font-size: 30px;
+    }
+    .starcare-advantage-area {
+        padding-top: 45px;
+        padding-bottom: 60.59px;
+    }
+    .starcare-title h2 {
+        font-size: 37px;
+    }
+    .starcare-title h2::before {
+        left: -15.593px;
+        bottom: -7px;
+    }
+    .starcare-title h2::after {
+        width: 259.378px;
+        height: 28.506px;
+        right: 23px;
+        bottom: -8px;
+    }
+    .starcare-category-post {
+        margin-top: 30px;
+    }
+    .starcare-single-category {
+        width: 100%;
+        margin: auto;
+    }
+    .footer-top-wrpper {
+        padding-bottom: 35px;
+        padding-top: 45px;
+    }
+    .quick-links,
+    .contacts {
+        margin-top: 20px;
+    }
+    .testimonial-wrpper::before,
+    .testimonial-wrpper::after {
+        display: none;
+    }
+    .testimonial-wrpper > img {
+        display: none;
+    }
+    .testimonial-content-wrpper {
+        position: initial;
+        top: 0;
+        transform: translateX(0%);
+    }
+    .testimonial-area {
+        padding: 50px 0;
+    }
+    .testimonial-content-wrpper h2 {
+        font-size: 40px;
+        line-height: 100%;
+    }
+    .testimonial-content-wrpper p {
+        font-size: 18px;
+        margin: 9px 0;
+    }
+    .successful-area {
+        padding-top: 55px;
+        padding-bottom: 71px;
+    }
+    .successful-wrpper h2 {
+        font-size: 30px;
+    }
+    .successful-wrpper p {
+        margin-top: 10px;
+    }
+    .successful-wrpper a {
+        margin: 16px auto 6px;
+    }
+    .faq-wrpper {
+        padding: 40px 0;
+    }
+    .faq-area::after {
+        width: 79.53px;
+        top: 7%;
+        z-index: -1;
+    }
+    .faq-area::before {
+        width: 83px;
+        z-index: -1;
+    }
+    .faqs-title h2 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+    .accordion {
+        width: 90%;
+        margin: auto;
+    }
+    .accordion-header p {
+        max-width: 90%;
+        font-size: 17px;
+    }
+    .faqs-title h2::after {
+        width: 244px;
+        right: 36px;
+        bottom: -22px;
+    }
+    .accordion-content p {
+        font-size: 16px;
+    }
+    .accordion-item {
+        padding: 25px 20px 20px 20px;
+    }
+    .childhood-education-area {
+        background-position: left center;
+        padding-top: 0px;
+        padding-bottom: 50px;
+    }
+    .childhood-img-wrpper img {
+        width: 60%;
+        display: block;
+        margin: auto;
+    }
+    .childhood-content h3 {
+        font-size: 20px;
+        padding: 7px 13px;
+    }
+    .childhood-content h2 {
+        font-size: 35px;
+        line-height: 110%;
+        margin-top: 9.7px;
+        margin-bottom: 10px;
+    }
+    .childhood-content {
+        margin-top: 40px;
+    }
+
+    .time-line-wrpper img {
+        display: none;
+    }
+    #time-line-one,
+    #time-line-two,
+    #time-line-three,
+    #time-line-four {
+        position: initial;
+        width: 80%;
+        display: flex;
+        /*! flex-direction: column; */
+        align-items: center;
+        margin: auto;
+        column-gap: 20px;
+    }
+    .time-line-wrpper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 50px;
+        position: relative;
+    }
+    .time-line-wrpper::after {
+        content: '';
+        display: block;
+        clear: both;
+        position: absolute;
+        width: 3px;
+        height: 98%;
+        background-color: #000;
+        top: 1%;
+        left: calc(20%);
+        z-index: -1;
+    }
+    .time-line-area {
+        padding-bottom: 30px;
+    }
+    .tl-four-desc,
+    .tl-two-desc,
+    .tl-three-desc,
+    .tl-one-desc {
+        margin-left: 0;
+    }
+    .header-area {
+        background-position: top left;
+    }
+    .removejoin {
+        display: none;
+    }
+    .single-row {
+        flex-direction: column;
+    }
+    .neme-input, .email-input, .mobile-input, .otp-input, .pincode-input, .state-input {
+        width: 100%;
+    }
+    .neme-input label, .email-input label, .mobile-input label, .otp-input label, .pincode-input label, .state-input label, .select-city label {
+        margin-bottom: 0;
+    }
+    .neme-input input, .email-input input, .mobile-input input, .otp-input input, .pincode-input input {
+        border-radius: 0;
+        box-shadow: none;
+        border-top: none;
+        border-right: none;
+        border-left: none;
+        padding: 10px 0;
+    }
+    .select-state {
+        padding: 10px 0px;
+        border-radius: 0;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        background: transparent;
+        box-shadow: none;
+    }
+    .tl-one-desc p, .tl-two-desc p, .tl-three-desc p, .tl-four-desc p {
+        text-align: left;
+    }
+    .timeline-title h2 {
+        font-size: 50px;
+        margin-bottom: 35px;
+    }
+    .owl-carousel .owl-item img {
+        width: 70% !important;
+    }
+    .about-us-wrpper {
+        padding: 50px 0;
+    }
+    .yellow-border {
+        display: none;
+    }
+    .about-content-box {
+        padding-left: 5%;
+    }
+    .about-content-box h3 {
+        font-size: 34px;
+    }
+    .about-content-box h2 {
+        font-size: 34px;
+        margin-bottom: 12px;
+    }
+    .about-content-box p {
+        font-size: 18px;
+    }
+    .starcare-single-category:hover {
+        background: transparent;
+    }
+
+
+    
+}
+
+/*==================================
+Xtra Small Screen - Small Mobile
+====================================*/
+@media screen and (max-width: 575px) {
+    .header-area {
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+    .small-device-logo a img {
+        width: 170px;
+        height: 54px;
+        object-fit: contain;
+    }
+    .header-contact a {
+        margin-left: auto;
+    }
+    .header-navbar {
+        padding: 0px 20px;
+    }
+    .hero-area {
+        padding-top: 20px;
+    }
+    .hero-area-title h2 {
+        font-size: 32px;
+        margin-top: 15px;
+    }
+    .hero-join-btn {
+        margin-top: 17.19px;
+    }
+    .hero-icon-wrpper::before,
+    .hero-icon-wrpper::after {
+        display: none;
+    }
+    .hero-content-right {
+        padding: 15px 15px;
+    }
+    .hero-content-right-top h3 {
+        font-size: 22px;
+    }
+    .single-row {
+        flex-direction: column;
+    }
+    .neme-input,
+    .email-input,
+    .mobile-input,
+    .otp-input,
+    .pincode-input,
+    .state-input {
+        width: 100%;
+    }
+    .hero-content-right {
+        margin-top: 25px;
+        position: relative;
+        z-index: 999;
+    }
+    .hero-join-btn a {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .hero-icon-wrpper {
+        justify-content: center;
+    }
+    .hero-left-top h5 {
+        width: 190.008px;
+        height: 46.261px;
+        font-size: 24px;
+    }
+    .starcare-advantage-area {
+        padding-top: 30px;
+        padding-bottom: 35.59px;
+    }
+    .footer-logo a img {
+        width: 140px;
+    }
+    .quick-links h3,
+    .contacts h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .quick-links ul,
+    .contacts ul {
+        gap: 5px;
+    }
+    .footer-top-wrpper {
+        padding-bottom: 35px;
+    }
+    .quick-links,
+    .contacts {
+        margin-top: 20px;
+    }
+    .footer-bottom-wrpper {
+        padding: 13px 0;
+    }
+    .testimonial-wrpper::before,
+    .testimonial-wrpper::after {
+        display: none;
+    }
+    .testimonial-wrpper > img {
+        display: none;
+    }
+    .testimonial-content-wrpper {
+        position: initial;
+        top: 0;
+        transform: translateX(0%);
+    }
+    .testimonial-area {
+        padding: 30px 15px;
+    }
+    .testimonial-content-wrpper h2 {
+        font-size: 32px;
+        line-height: 100%;
+    }
+    .testimonial-content-wrpper p {
+        font-size: 15px;
+        margin: 9px 0;
+    }
+    .testimonial-content-wrpper h4 {
+        line-height: 100%;
+    }
+    .successful-area {
+        padding-top: 55px;
+        padding-bottom: 71px;
+    }
+    .successful-wrpper h2 {
+        font-size: 24px;
+    }
+    .successful-wrpper p {
+        margin-top: 10px;
+    }
+    .successful-wrpper a {
+        margin: 16px auto 6px;
+    }
+    .faq-wrpper {
+        padding: 30px 0;
+    }
+    .faq-area::after {
+        width: 79.53px;
+        top: 7%;
+        z-index: -1;
+    }
+    .faq-area::before {
+        width: 83px;
+        z-index: -1;
+    }
+    .faqs-title h2 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+    .accordion {
+        width: 100%;
+        margin: auto;
+    }
+    .accordion-header p {
+        max-width: 90%;
+        font-size: 17px;
+    }
+    .faqs-title h2::after {
+        width: 244px;
+        right: 71px;
+        bottom: -26px;
+    }
+    .accordion-content p {
+        font-size: 16px;
+    }
+    .accordion-item {
+        padding: 25px 20px 20px 20px;
+    }
+    .childhood-education-area {
+        background-position: left center;
+        padding-top: 0px;
+        padding-bottom: 50px;
+    }
+    .childhood-img-wrpper img {
+        width: 60%;
+        display: block;
+        margin: auto;
+    }
+    .childhood-content h3 {
+        font-size: 20px;
+        padding: 7px 13px;
+    }
+    .childhood-content h2 {
+        font-size: 26px;
+        line-height: 110%;
+        margin-top: 9.7px;
+        margin-bottom: 10px;
+    }
+    .childhood-content {
+        margin-top: 40px;
+    }
+    .childhood-content p {
+        margin-bottom: 15px;
+    }
+    .time-line-wrpper img {
+        display: none;
+    }
+    #time-line-one,
+    #time-line-two,
+    #time-line-three,
+    #time-line-four {
+        position: initial;
+        width: 86%;
+        display: flex;
+        /* flex-direction: column; */
+        align-items: center;
+        column-gap: 15px;
+    }
+    .time-line-wrpper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 23px;
+        position: relative;
+    }
+    .time-line-wrpper::after {
+        content: '';
+        display: block;
+        clear: both;
+        position: absolute;
+        width: 3px;
+        height: 97%;
+        background-color: #000;
+        top: 1%;
+        left: calc(20%);
+        z-index: -1;
+    }
+    .time-line-area {
+        padding-bottom: 30px;
+    }
+    .tl-one-desc,
+    .tl-two-desc,
+    .tl-three-desc,
+    .tl-four-desc {
+        margin-top: 5px;
+        margin-left: 0;
+    }
+    .hero-area-title h2::after,
+    .hero-content-right::after,
+    .starcare-title h2::before,
+    .time-line-area::after {
+        display: none;
+    }
+    .starcare-title h2 {
+        font-size: 38px;
+        line-height: 110%;
+    }
+    .header-area {
+        background-position: left;
+    }
+    .removejoin {
+        display: none;
+    }
+    .single-row {
+        flex-direction: column;
+    }
+    .neme-input, .email-input, .mobile-input, .otp-input, .pincode-input, .state-input {
+        width: 100%;
+    }
+    .neme-input label, .email-input label, .mobile-input label, .otp-input label, .pincode-input label, .state-input label, .select-city label {
+        margin-bottom: 0;
+    }
+    .neme-input input, .email-input input, .mobile-input input, .otp-input input, .pincode-input input {
+        border-radius: 0;
+        box-shadow: none;
+        border-top: none;
+        border-right: none;
+        border-left: none;
+        padding: 10px 0;
+    }
+    .select-state {
+        padding: 10px 0px;
+        border-radius: 0;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        background: transparent;
+        box-shadow: none;
+    }
+    .tl-one-desc p, .tl-two-desc p, .tl-three-desc p, .tl-four-desc p {
+        text-align: left;
+    }
+    .timeline-title h2 {
+        font-size: 40px;
+        margin-bottom: 35px;
+    }
+    .tl-one-inner,
+    .tl-two-inner,
+    .lt-three-inner,
+    .lt-four-inner {
+        width: 90px;
+        height: 90px;
+    }
+    .time-line-out,
+    .tl-two-out,
+    .tl-three-out,
+    .tl-four-out {
+        width: 100px;
+        height: 100px;
+    }
+    .tl-one-inner p, .tl-two-inner p, .lt-three-inner p, .lt-four-inner p {
+        font-size: 25.109px;
+    }
+    .accordion-header span {
+        width: 25px;
+        height: 25px;
+    }
+    .accordion-header span::after {
+        top: 53%;
+        left: 29%;
+    }
+    .owl-carousel .owl-item img {
+        /*! width: 90% !important; */
+    }
+    .about-us-wrpper {
+        padding: 40px 0;
+    }
+    .yellow-border {
+        display: none;
+    }
+    .about-content-box {
+        padding-left: 5%;
+    }
+    .about-content-box h3 {
+        font-size: 28px;
+    }
+    .about-content-box h2 {
+        font-size: 30px;
+        margin-bottom: 12px;
+    }
+    .about-content-box p {
+        font-size: 17px;
+    }
+    .starcare-single-category:hover {
+        background: transparent;
+    }
+    .popup-box {
+        width: 95%;
+    }
+
+}
